@@ -4,8 +4,8 @@ This is a rebuild of my portfolio website using React, Vite and Tailwind
 
 Simple vite setup - to setup project.
 ```
-NPM install
-NPM Run Dev
+npm install
+npm run dev
 ```
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
