@@ -1,0 +1,15 @@
+// Global site config in tailwind.config.js
+
+@import "_var";
+
+@import "./layout/global";
+@import "./layout/animations";
+
+@import "./components/banner";
+@import "./components/btn";
+@import "./components/links";
+@import "./components/range";
+
+
+
+

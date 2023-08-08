@@ -1,5 +1,5 @@
-import { useState } from 'react'
-import './App.css'
+import 'tailwindcss/tailwind.css';
+import './scss/app.scss';
 
 import Header from './layout/Header'
 import About from './layout/About'
