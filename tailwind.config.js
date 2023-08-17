@@ -19,7 +19,7 @@ export default {
       sm: ['16px', '20px'],
       base: ['16px', '24px'],
       lg: ['calc(1em + 1vw);'],
-      xl: ['calc(1em + 7vw)'],
+      xl: ['calc(1em + 5vw)'],
       '2xl': ['calc(1em + 10vw)'],
     },
     fontFamily: {

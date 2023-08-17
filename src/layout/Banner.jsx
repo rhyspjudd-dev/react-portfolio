@@ -1,8 +1,13 @@
+import BannerImg from './../assets/banner.jpg';
+
 function Banner() {
 
     return (
-        <section id="about">
-            <h3 className="text-3xl">Banner code here</h3>
+        <section id="banner">
+            {/* <img 
+            className="fixed bg-cover"
+            src={ BannerImg } 
+            alt="" /> */}
         </section>
     )
   }

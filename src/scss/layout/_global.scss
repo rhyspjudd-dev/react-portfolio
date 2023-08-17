@@ -2,7 +2,6 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto;
 }
 
 #about {
@@ -23,5 +22,20 @@ section {
         }
     }
 
+}
+
+#experience {
+    a {
+        text-decoration: underline;
+    }
+}
+
+#banner {
+    background: url(../../src/assets/banner.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 50vh;
 }
 
